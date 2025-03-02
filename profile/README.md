@@ -1,6 +1,6 @@
 # 🏏 CricHub - Cricket Club Management System
 
-![CricHub Logo](https://res.cloudinary.com/hashanthapramod/image/upload/v1740896715/wux3dd2gpr9quu3ytlm1.png){:width="200px"}
+<img src="https://res.cloudinary.com/hashanthapramod/image/upload/v1740896715/wux3dd2gpr9quu3ytlm1.png" alt="CricHub Logo" width="200" />
 
 CricHub is a **Cricket Club Management System** built using the **MERN stack** to efficiently manage clubs, players, and administrators. It streamlines operations for cricket organizations by providing tools for **team management, match tracking, and player statistics**.
 
