@@ -16,7 +16,7 @@ CricHub is a **Cricket Club Management System** built using the **MERN stack** t
 
 ## 🛠 Tech Stack
 
-- **Frontend:** React.js, Redux, Tailwind CSS  
+- **Frontend:** React.js, CSS, Framer-motion
 - **Backend:** Node.js, Express.js  
 - **Database:** MongoDB  
 - **Authentication:** JSON Web Tokens (JWT)  
