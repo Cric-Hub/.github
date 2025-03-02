@@ -45,10 +45,10 @@ This project is divided into three repositories:
 - Install **Node.js** and **MongoDB**
 - Clone the repositories:
 
-```bash
-git clone https://github.com/Crichub/client.git
-git clone https://github.com/Crichub/admin.git
-git clone https://github.com/Crichub/api.git
+\`\`\`bash
+git clone https://github.com/your-username/client.git
+git clone https://github.com/your-username/admin.git
+git clone https://github.com/your-username/api.git
 \`\`\`
 
 ### Backend Setup:
