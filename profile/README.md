@@ -45,33 +45,33 @@ This project is divided into three repositories:
 - Install **Node.js** and **MongoDB**
 - Clone the repositories:
 
-\`\`\`bash
+```bash
 git clone https://github.com/your-username/client.git
 git clone https://github.com/your-username/admin.git
 git clone https://github.com/your-username/api.git
-\`\`\`
+```
 
 ### Backend Setup:
-\`\`\`bash
+```bash
 cd api
 npm install
 cp .env.example .env  # Update environment variables
 npm start
-\`\`\`
+```
 
 ### Frontend Setup:
-\`\`\`bash
+```bash
 cd client
 npm install
 npm start
-\`\`\`
+```
 
 ### Admin Panel Setup:
-\`\`\`bash
+```bash
 cd admin
 npm install
 npm start
-\`\`\`
+```
 
 ## 👨‍💻 Contribution Guide
 
