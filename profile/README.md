@@ -49,3 +49,63 @@ This project is divided into three repositories:
 git clone https://github.com/Crichub/client.git
 git clone https://github.com/Crichub/admin.git
 git clone https://github.com/Crichub/api.git
+\`\`\`
+
+### Backend Setup:
+\`\`\`bash
+cd api
+npm install
+cp .env.example .env  # Update environment variables
+npm start
+\`\`\`
+
+### Frontend Setup:
+\`\`\`bash
+cd client
+npm install
+npm start
+\`\`\`
+
+### Admin Panel Setup:
+\`\`\`bash
+cd admin
+npm install
+npm start
+\`\`\`
+
+## 👨‍💻 Contribution Guide
+
+### Team Members:
+- **K.D.H.P. Kothalawala** – Full Stack Developer ([GitHub](https://github.com/yourusername))  
+- **A.W.M.N.P. Wijesinghe** – Backend Developer  
+- **M.R.K.M. Rathnayaka** – Frontend Developer  
+- **R.A.G. Karunarathna** – Frontend Developer  
+
+### Collaboration Guidelines:
+- Use **GitHub Issues** for reporting bugs.  
+- Follow the **feature branch workflow** (\`feature/your-feature\`).  
+- Submit **pull requests (PRs)** for review before merging.  
+
+## 📌 Usage
+
+1. **System Admin** creates **Club Admin** accounts.  
+2. **Club Admins** manage players, schedules, and news.  
+3. **Users** can view match updates, news, and scoreboards.  
+
+🔗 **Live Demo:** Coming Soon  
+
+## 📡 API Documentation
+
+| Endpoint            | Method | Description                |
+|---------------------|--------|----------------------------|
+| \`/api/auth/login\`   | POST   | Login a user               |
+| \`/api/clubs\`        | GET    | Fetch all clubs            |
+| \`/api/players\`      | GET    | Fetch player details       |
+| \`/api/matches\`      | GET    | Get match statistics       |
+
+📄 **Full API docs:** Coming Soon  
+
+## 📜 License & Acknowledgments
+
+📜 This project is licensed under the **MIT License**.  
+Special thanks to all contributors and the **Open Source Community**!"
